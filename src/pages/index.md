@@ -54,12 +54,10 @@ offerings:
         In tempor, massa quis euismod convallis, felis elit sodales urna, at aliquet mi elit auctor
         risus.
 testimonials:
-  - author: Vaibhav Sharma
+  - author: Natasha Smith
     quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium.
-      Sed quis egestas libero. Vestibulum nec venenatis ligula.
-  - author: Subarashi San
+      Joshua and I worked together for several years at Apple doing technical support. Joshua was always one of the most knowledgeable, articulate and well-versed repair technicians we had. He was my go-to for any questions I had about issues that I unfamiliar with fixing. Joshua treats every customer and their products with the utmost respect, patience, and care. I wouldn’t hesitate in asking him to fix any technical issue I was having with any of my devices as I know he’d treat it like it were his own.
+  - author: Stephen Ridgeway
     quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula.
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Writing this review is a delight. Joshua is spry, apt, and discerning. When we first met I was still with Apple. He showed immediate promise and over the course of the several years that followed I watched him develop into one of the most compassionate and effective technicians in the company. The same goes for his leadership. He has a really good handle on how to identify what people are going through while addressing their issue with their equipment. Working alongside him made my life easier, as I’m sure being a client of his will make yours.
 ---
