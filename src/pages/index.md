@@ -1,16 +1,15 @@
 ---
 templateKey: 'home-page'
-title: Joshua the Jenius LLc 
+title: Joshua the Jenius LLC.
 meta_title: Home | Gatsby Starter Business
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
+  Cum sociis natoque penatibus et magnis dis xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  consectetur purus sit amet fermentum
 heading: Lorem ipsum dolor sit amet
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  Nxxxxxxxxxxxxxxxxxxxxxxxxx...
 offerings:
   blurbs:
     - image: /img/coffee.png
@@ -37,8 +36,7 @@ offerings:
         Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
     - image: /img/tutorials.png
       text: >
-        Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus vitae sollicitudin
-        pharetra, ipsum augue tristique urna, in rhoncus quam tortor eget sem. Maecenas eu
+        SJoshua Mitchell Marcus Carter alkfjlajflkajsfl;asldfalkaugue tristique urna, in rhoncus quam tortor eget sem. Maecenas eu
         pharetra orci, ut malesuada nisl. Aliquam erat volutpat. Curabitur egestas eros tincidunt,
         scelerisque lectus ac, congue turpis. Fusce egestas sit amet elit et fringilla. Aliquam
         erat volutpat. Vivamus ultrices venenatis maximus. Donec volutpat vitae quam at fringilla.
