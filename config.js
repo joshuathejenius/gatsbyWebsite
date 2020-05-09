@@ -11,9 +11,9 @@ module.exports = {
   disqusShortname: 'gatsby-business-starter', // Disqus shortname.
   userName: 'Vaibhav Sharma',
   userTwitter: 'vaibhaved',
-  userLocation: 'Delhi NCR, India',
+  userLocation: 'STVI',
   userDescription: '',
   copyright: 'Copyright © Gatsby Starter Business 2018-2019. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
-  themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
+  themeColor: '#0062d1', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff', // Used for setting manifest background color.
 }
