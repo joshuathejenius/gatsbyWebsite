@@ -1,7 +1,7 @@
 ---
 templateKey: 'home-page'
 title: Joshua the Jenius LLC.
-meta_title: Home | Gatsby Starter Business
+meta_title: Home | Joshua The Jenius
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
