@@ -26,7 +26,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 ## Getting Started
 Create your own project with Gatsby CLI:
 ```shell
-gatsby new yourbusinessname https://github.com/v4iv/gatsby-starter-business.git 
+gatsby new yourbusinessname https://github.com/v4iv/gatsby-starter-business.git
 ```
 
 ## Available Scripts
@@ -66,7 +66,7 @@ To personalize and configure this Starter open `config.js` file and replace the 
 
 ```javascript
 module.exports = {
-  siteTitle: 'Gatsby Starter Business', // Site title.
+  siteTitle: 'Joshua The The Jenius', // Site title.
   siteTitleAlt: 'Business', // Alternative site title for SEO.
   siteLogo: '/icons/icon-512x512.png', // Logo used for SEO and manifest.
   siteUrl: 'https://gatsby-starter-business.netlify.com', // Domain of your website without pathPrefix.
