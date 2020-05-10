@@ -60,4 +60,7 @@ testimonials:
   - author: Stephen Ridgeway
     quote: >-
       Writing this review is a delight. Joshua is spry, apt, and discerning. When we first met I was still with Apple. He showed immediate promise and over the course of the several years that followed I watched him develop into one of the most compassionate and effective technicians in the company. The same goes for his leadership. He has a really good handle on how to identify what people are going through while addressing their issue with their equipment. Working alongside him made my life easier, as I’m sure being a client of his will make yours.
+  -author: Richard Stevens
+   quote: >-
+      We are fortunate to have an Apple “Jenius” on island. Have had Joshua’s services pre and post hurricane. He knows his stuff, very willing & patient to walk you through explanations. Did amazing work on both our older iMac & new iMac! Joshua is very polite, & conducts himself with integrity & professionalism. Would not hesitate to recommend him!
 ---
